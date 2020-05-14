@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    >
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/tonned_real_home" />
+
+    <Button
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="700dp"
+        android:background="@drawable/round_shape"
+        android:fontFamily="serif-monospace"
+        android:includeFontPadding="true"
+        android:text="Lets Start"
+        android:textColor="@color/ic_launcher_background"
+        android:textFontWeight="6"
+        android:textSize="32dp"
+        android:textStyle="bold"
+        android:id="@+id/lets_start_button"/>
+
+    <TextView
+        android:id="@+id/inshape"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="400dp"
+       android:fontFamily="serif"
+        android:gravity="center_horizontal"
+        android:text="InShape"
+        android:textAlignment="center"
+        android:textColor="#EEF0F1"
+        android:textSize="70dp"
+        android:textStyle="bold" />
+
+
+</RelativeLayout>

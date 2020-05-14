@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">InShape</string>
+
+    <string-array name="exercise_name_fat">
+        <item>20 barbell bicep curl</item>
+        <item>20 hammer curl</item>
+        <item>25 diamond pushups</item>
+        <item>25 close-grip pushups</item>
+        <item>15 decline triceps extension</item>
+        <item>15 triceps kickback</item>
+        <item>3 minutes plank</item>
+        <item>2 mintues reverse plank</item>
+    </string-array>
+
+    <string-array name="exercise_description_fat">
+        <item>Stand holding a dumbbell in each hand with your arms hanging by your sides.Ensure your elbows are close to your torso and your palms facing forward.Keeping your upper arms stationary, exhale as you curl the weights up to shoulder level while contracting your biceps.Use a thumb-less grip</item>
+        <item>The hammer curl targets the biceps and forearms, and is a useful strength and hypertrophy exercise to reinforce a stronger grip for deadlifts, pulling, and other strength/power movements. Below are the three specific muscle groups targeted by hammer curls</item>
+        <item>With a diamond push-up, your hands are closer together, with your fingers and thumbs forming a diamond or triangle shape, and this moves the focus from your chest muscles to your triceps. Your basic form stays the same: Hands are flat on the floor. Legs extended behind you.</item>
+        <item>Close grip hits the inner chest, versus the center of the chest, which you hit with the regular pushups. It also may hit the triceps differently.</item>
+        <item>Start off by lying face up (back flat) on a decline bench with a dumbbell in each hand. 2.) Extend your arms so they are perpendicular to your chest, and keeping your elbows in one place, lower your hands so the dumbbells are lowered near your head.</item>
+        <item>Bend forward slightly at the waist so your torso is almost parallel to the floor. Engage your core and keep your head, neck, and spine in one line. Place one hand on your thigh for support. On an exhale, engage your triceps as you slowly extend your arm back as far as you can, keeping your arm in tight by your side.</item>
+        <item>The plank is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time. </item>
+        <item>Press into your palms and lift your hips and torso toward the ceiling. Look up to the ceiling, point your toes, and keep your arms and legs straight. Keep your entire body strong and form a straight line from your head to your heels. Squeeze your core and try to pull your belly button back toward your spine.</item>
+    </string-array>
+
+    <string-array name="exercise_name_cut">
+        <item>15 dynamic chest streches</item>
+        <item>8 barbell bench press</item>
+        <item>10 bench dumbbell press</item>
+        <item>10 incline barbell bench press</item>
+        <item>12 incline dumbbell press</item>
+        <item>15dembbell pullovers</item>
+        <item>20 mountain climbers</item>
+        <item>10 chest dips</item>
+        <item>25 wide pushups</item>
+    </string-array>
+
+    <string-array name="exercise_description_cut">
+        <item>Dynamic stretching is a movement-based type of stretching. It uses the muscles themselves to bring about a stretch. It\'s different from traditional static stretching because the stretch position is not held.</item>
+        <item>The barbell bench press is an upper body pressing drill that builds size and strength in the upper body, specifically in the chest, triceps, and shoulders. Lying flat on a bench allows for improved stability.</item>
+        <item>Set up a bench at an incline of 30 to 45 and sit with your feet flat on the floor and your back on the bench. Lift the dumbbells to chest height with your palms facing forwards. Breathe out and push the dumbbells up until your arms are fully extended, using your pecs to power the movement. Don\'t let the dumbbells touch.</item>
+        <item>Position your body on an incline bench on a 30 to 45 degree angle. Grab a barbell with an overhand grip that\'s shoulder width apart and hold it above your chest. Extend arms upward, locking out elbows. Lower the bar straight down in a slow, controlled movement to your chest.</item>
+        <item>The Incline Bench Press primarily works the clavicular head of the pectoralis major, or the upper portion of your chest. It also works the anterior deltoid (front portion of the shoulder) and the triceps (backside of your arm)</item>
+        <item>The pullover is an exercise that is performed with either a dumbbell or a barbell. Pullovers can be made to affect either the chest or the back depending on how wide the grip is and the position of the shoulders.</item>
+        <item>Mountain Climbers are a killer exercise that get your heart rate up fast while also firing nearly every muscle group in the body deltoids, biceps, triceps, chest, obliques, abdominals, quads, hamstrings and hip abductors. It\'s truly a fully body workout!</item>
+        <item>The right form for Chest Dips Lean forward. Put your elbows a little bit wider than your shoulders. Move knees slightly forward, so your body is shaped like a C Contract your abs to maintain the position.Keep your head in line with your spine as you go down.</item>
+        <item>Wide pushups are a simple yet effective way to build your upper body and core strength. By positioning your hands further apart, wide pushups target your chest and shoulder muscles more than standard pushups.</item>
+    </string-array>
+
+    <string-array name="exercise_name_tonned">
+        <item>15 chest shoulder stretches</item>
+        <item>20 shoulder rotation</item>
+        <item>15 dumbbell incline bench press</item>
+        <item>15 dumbbell lateral raise</item>
+        <item>10 dumbbell rear latteral raise</item>
+        <item>16 dumbell alt latteral raise</item>
+        <item>15 dumbbell seated shoulder press</item>
+        <item>10 dumbell standing alt raise</item>
+    </string-array>
+
+    <string-array name="exercise_description_tonned">
+        <item>Start standing or sitting tall. Grab one arm above your elbow with your opposite hand, and pull it across your body toward your chest until you feel a stretch in your shoulder. Make sure to keep your elbow below shoulder height. Hold for at least 30 seconds and then repeat on the other side.</item>
+        <item>Lateral rotation With your arms at your sides, palms facing your body, bend your elbows 90 degrees. Keeping your elbows against your body swing your forearms away from your body. This is lateral rotation — also referred to as external rotation — and the normal range of motion for a healthy shoulder is 90 degrees.</item>
+        <item>Step 1 Set an adjustable bench to an incline of 30–45 degrees. Lie on your back on the bench and hold a pair of dumbbells directly above your shoulders with your arms fully extended. Step 2 Pull your shoulder blades together, and slightly stick out your chest. Lower both dumbbells to the sides of your chest.</item>
+        <item>Stand or sit with a dumbbell in each hand at your sides. Keep your back straight, brace your core, and then slowly lift the weights out to the side until your arms are parallel with the floor, with the elbow slightly bent. You don\'t even need to use dumbbells – a resistance band works well for lateral raises.</item>
+        <item>The dumbbell rear lateral raise is a variation of the lateral raise which has the lifter move the weights outwards (laterally) as the torso itself is forward to varying degrees (instead of being vertical).</item>
+        <item>Step 1 Stand tall with your feet hip-width apart. Hold a dumbbell in each hand at your sides. Step 2 Raise one arm out to the side and pause with the dumbbell at about shoulder height. Hold this position before returning to the starting position to repeat on your other arm.</item>
+        <item>Here is a great shoulder exercise. If you want to build strength in your shoulders, the shoulder press will do it for you. The major muscles used are the Anterior Deltoid, Medial Deltoid and upper portion of the Pectoralis Major. Of course, like most exercises, there are many variations.</item>
+        <item>Start off standing up straight with your feet shoulder width apart and holding a dumbbell in each hand. 2. While keeping your body still, slowly raise one of the dumbbells out to the side up to shoulder level, squeezing on the way up and hold for a count.</item>
+    </string-array>
+
+    <string-array name="exercise_name_bulk">
+        <item>20 sit-ups</item>
+        <item>20 air bikes</item>
+        <item>25 crunches</item>
+        <item>15 decline crunches</item>
+        <item>3 min plank</item>
+        <item>10 lying leg raise</item>
+        <item>2 min side plank</item>
+        <item>20 russian twist</item>
+        <item>10 V-ups</item>
+    </string-array>
+
+    <string-array name="exercise_description_bulk">
+        <item>The sit-up is an abdominal endurance training exercise to strengthen, tighten and tone the abdominal muscles. It is similar to a crunch, but sit-ups have a fuller range of motion and condition additional muscles.</item>
+        <item>The Assault Air Bike is a great default to exercise. If running or rowing is currently something you are unable to do due to injury, the Assault Air Bike is a great way to modify that movement in your workout. It also allows the area of the injury to move and provide blood flow to the area to aid in recovery.</item>
+        <item>The crunch is one of the most popular abdominal exercises. It involves the entire abs, but primarily it works the rectus abdominis muscle and also works the obliques. It allows both building six-pack abs, and tightening the belly. </item>
+        <item>Both decline sit-ups and decline crunches are performed on a bench with your head lower than your hips and legs. For the crunch, cross your arms over your chest. Exhale and curl your head, shoulders and upper back away from the bench, contracting your abs. Inhale and release for one full rep.</item>
+        <item>The plank is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time.</item>
+        <item>Lying Leg Raises  Lifts. Lie on your back on a mat with hands under your lower buttocks on either side to support your pelvis. Legs straight out in front of you, ankles together and feet slightly off the floor. Keep your knees straight and raise your legs by flexing the hips until they are completely flexed.</item>
+        <item>The side plank is a great exercise for strengthening the oblique abdominal muscles, which don\'t get worked during ab exercises such as crunches. You will hold your body on your side in straight position supported only by one arm and the side of one foot.</item>
+        <item>The Russian twist is a type of exercise that is used to work the abdominal muscles by performing a twisting motion on the abdomen.</item>
+        <item>The V-Ups exercise is a total core working movement. It is also known as the Jackknife or Pike Crunch exercise. The V-ups exercise is a more advanced form of most ab workouts. This challenges your core, abs, back, and flexibility. You want to try to touch your toes in the V-Ups exercise.</item>
+    </string-array>
+</resources>
